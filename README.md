@@ -2,17 +2,21 @@
 
 A basic minecraft server.
 
-#Plugins list:
-  EssentialsX.jar
-  MultiVerse-core.jar
+### Plugins list:
 
-#World information:
-  world = Default
-  world_nether = Default
-  world_the_ent = Default
+  - EssentialsX.jar
+  - MultiVerse-core.jar
 
-#Version:
-  PaperMC 1.21.4 
+### World information:
 
-#Server Properties:
-  [Server Properties][server.properties]
+  - world = Default
+  - world_nether = Default
+  - world_the_ent = Default
+
+### Version:
+
+  - PaperMC 1.21.4 
+
+### Server Properties:
+
+  [Properties](server.properties)
