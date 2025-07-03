@@ -5,7 +5,7 @@
 ### Plugins list:
 
   - *EssentialsX.jar*
-  - *MultiVerse-core.jar&
+  - *MultiVerse-core.jar*
 
 ### World information:
 
